@@ -1,8 +1,5 @@
-import React, { useState } from 'react';
-import {
-  ChallengesContext,
-  ChallengesProvider,
-} from '../contexts/ChallengeContexts';
+import React from 'react';
+import { ChallengesProvider } from '../contexts/ChallengeContexts';
 
 import '../styles/global.css';
 
